@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer
 -----------------
-
+<img align="right" alt="Coding" width="370" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 * 🌍  I'm based in Mumbai, Maharashtra
 * ✉️  You can contact me at [aryanakb2502@gmail.com](mailto:aryanakb2502@gmail.com)
 * 🚀  I'm currently working on [Tribute Website](http://github.com/Thestoic3467/Tribute-website)
