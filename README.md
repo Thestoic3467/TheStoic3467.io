@@ -8,7 +8,7 @@ Software Engineer
 
 * 🌍  I'm based in Mumbai, Maharashtra
 * ✉️  You can contact me at [aryanakb2502@gmail.com](mailto:aryanakb2502@gmail.com)
-* 🚀  I'm currently working on [News Website](https://github.com/Thestoic3467/Main_News_Website_project)
+* 🚀  I'm currently working on [Poshan Calculator](https://github.com/Thestoic3467/Poshan-calculator-)
 * 🧠  I'm learning NumPy, JS and Tailwind CSS
 * 🤝  I'm open to collaborating on Other Web Design projects as well as AI ML projects
 * ⚡  Did you know? I have a black belt in procrastination—I'll tell you more about it later.
