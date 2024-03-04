@@ -11,7 +11,7 @@ Software Engineer
 * 🚀  I'm currently working on [Poshan Calculator](https://github.com/Thestoic3467/Poshan-calculator-)
 * 🧠  I'm learning NumPy, JS and Tailwind CSS
 * 🤝  I'm open to collaborating on Other Web Design projects as well as AI ML projects
-* ⚡  Did you know? I have a black belt in procrastination—I'll tell you more about it later.
+* ⚡  Fun Fact: James Bond's gadgets always amaze me, especially the iconic Aston Martin DB5.
 
 ### Skills
 
