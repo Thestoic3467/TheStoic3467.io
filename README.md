@@ -8,7 +8,6 @@ Software Engineer
 
 * 🌍  I'm based in Mumbai, Maharashtra
 * 🤝  I'm open to collaborating on Other Web Design projects as well as AI ML projects
-* ⚡  Fun Fact: James Bond's gadgets always amaze me, especially the iconic Aston Martin DB5.
 
 ### Skills
 
